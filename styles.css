@@ -156,3 +156,7 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+
+.botao_secundario:hover {
+    border: none;
+}
